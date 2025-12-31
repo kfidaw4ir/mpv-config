@@ -1,0 +1,6 @@
+# Shaders cache directory
+shaders/cache
+watch_later
+*.jpg
+*.png
+cache
