@@ -4,3 +4,4 @@ watch_later
 *.jpg
 *.png
 cache
+watch_history.jsonl
